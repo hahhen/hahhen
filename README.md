@@ -1,5 +1,6 @@
-### Hi there 👋
 
+![banner](https://github.com/hahhen/hahhen/blob/main/media/banner.png)
+### Olá, sou o Hahhen, designer e desenvolvedor front-end
 <!--
 **hahhen/hahhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
