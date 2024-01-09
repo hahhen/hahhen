@@ -8,17 +8,20 @@ Meu passatempos são estudar, programar e jogar, às vezes.
 Além da programação, possuo interesse em arquitetura, música clássica e cultura japonesa.
 
 ## Skills
-### Linguagens e Frameworks
+### Linguagens, Frameworks e Plataformas
 ![HTML](https://img.shields.io/badge/-HTML-44475a?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-44475a?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-javascript-44475a?logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/-React-44475a?logo=react&logoColor=white)
 ![Ionic](https://img.shields.io/badge/-Ionic-44475a?logo=ionic&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-44475a?logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-44475a?logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-44475a?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-44475a?logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Google%20Firebase-44475a?logo=firebase&logoColor=white)
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-44475a?logo=microsoftazure&logoColor=white)
 
-### Ferramentas de criação
+
+### Ferramentas de Criação
 ![Photoshop](https://img.shields.io/badge/-Photoshop-44475a?logo=adobephotoshop&logoColor=white)
 ![After Effects](https://img.shields.io/badge/-After%20Effects-44475a?logo=adobeaftereffects&logoColor=white)
 ![Premiere](https://img.shields.io/badge/-Premiere-44475a?logo=adobepremierepro&logoColor=white)
