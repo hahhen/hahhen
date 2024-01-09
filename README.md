@@ -1,11 +1,18 @@
 ![banner](https://github.com/hahhen/hahhen/blob/main/media/banner.png)
 
 ## Sobre mim
-Possuo 17 anos, sou desenvolvedor, atualmente cursando Desenvolvimento de Sistemas na Etec de Praia Grande junto ao Ensino Médio. Após a conclusão, pretendo cursar Ciências da Computação. Sou proativo, criativo e autodidata.  
+Possuo 17 anos, sou desenvolvedor e estou atualmente cursando Desenvolvimento de Sistemas na Etec de Praia Grande junto ao Ensino Médio. Após a conclusão, pretendo cursar Ciências da Computação. Sou proativo, criativo e autodidata.  
 
 Meu passatempos são estudar, programar e jogar, às vezes.  
 
 Além da programação, possuo interesse em arquitetura, música clássica e cultura japonesa.
+
+##About me
+I'm 17 years old, a developer and currently studying Systems Development at the Etec of Praia Grande along with High School. After graduating, I plan on taking Computer Science. I'm proactive, creative and self-taught.  
+
+In my free time, I enjoy to study, program and play videogames.  
+
+Apart from programming, I have a particular interest in architecture, classical music and the japanese culture.
 
 ## Skills
 ### Linguagens, Frameworks e Plataformas
