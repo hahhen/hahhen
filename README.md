@@ -7,7 +7,7 @@ Meu passatempos são estudar, programar e jogar, às vezes.
 
 Além da programação, possuo interesse em arquitetura, música clássica e cultura japonesa.
 
-##About me
+## About me
 I'm 17 years old, a developer and currently studying Systems Development at the Etec of Praia Grande along with High School. After graduating, I plan on taking Computer Science. I'm proactive, creative and self-taught.  
 
 In my free time, I enjoy to study, program and play videogames.  
