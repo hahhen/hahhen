@@ -18,7 +18,7 @@ Apart from programming, I have a particular interest in architecture, classical 
 ### Linguagens, Frameworks e Plataformas
 ![HTML](https://img.shields.io/badge/-HTML-44475a?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-44475a?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-javascript-44475a?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-44475a?logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-44475a?logo=react&logoColor=white)
 ![Ionic](https://img.shields.io/badge/-Ionic-44475a?logo=ionic&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-44475a?logo=bootstrap&logoColor=white)
