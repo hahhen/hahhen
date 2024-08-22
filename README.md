@@ -26,6 +26,11 @@ Apart from programming, I have a particular interest in architecture, classical 
 ![MySQL](https://img.shields.io/badge/-MySQL-44475a?logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Google%20Firebase-44475a?logo=firebase&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-44475a?logo=microsoftazure&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-44475a?logo=flutter&logoColor=white)
+![AWS](https://img.shields.io/badge/-Amazont%20Web%20Services-44475a?logo=amazonwebservices&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-44475a?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-44475a?logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-44475a?logo=nextdotjs&logoColor=white)
 
 
 ### Ferramentas de Criação
