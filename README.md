@@ -22,7 +22,7 @@ Apart from programming, I have a particular interest in architecture, classical 
 自由時間に勉強したり、プログラムしたり、ゲームプレイしたりすることが好きです。
 
 ## Skills
-### Linguagens, Frameworks e Plataformas
+### Programming languages, frameworks & platforms
 ![HTML](https://img.shields.io/badge/-HTML-44475a?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-44475a?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-44475a?logo=javascript&logoColor=white)
@@ -40,8 +40,11 @@ Apart from programming, I have a particular interest in architecture, classical 
 ![Next.js](https://img.shields.io/badge/-Next.js-44475a?logo=nextdotjs&logoColor=white)
 
 
-### Ferramentas de Criação
+### Creative tools
 ![Photoshop](https://img.shields.io/badge/-Photoshop-44475a?logo=adobephotoshop&logoColor=white)
 ![After Effects](https://img.shields.io/badge/-After%20Effects-44475a?logo=adobeaftereffects&logoColor=white)
 ![Premiere](https://img.shields.io/badge/-Premiere-44475a?logo=adobepremierepro&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-44475a?logo=figma&logoColor=white)
+
+## Certifications
+[![GitHub Foundations Certification](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/badges/5d158af1-084a-47e9-a057-b07ee413fca6/public_url)
