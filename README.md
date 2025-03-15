@@ -15,11 +15,11 @@ In my free time, I like to study, program and play videogames.
 Apart from programming, I have a particular interest in architecture, classical music and the japanese culture.
 
 ## 自分について
-僕は１８才でデベロッパーで現在サオパウロ大学に。どうぞよろしくお願いいたします。
-
 僕は１８才でデベロッパーで現在サオパウロ大学でコンピュータサイエンスを学んでいます。僕は積極的で、創造的で、独学です。
 
 自由時間に勉強したり、プログラムしたり、ゲームプレイしたりすることが好きです。
+
+プログラミングとは別に、建築、クラシック音楽、日本文化に興味があります。
 
 ## Skills
 ### Programming languages, frameworks & platforms
