@@ -48,3 +48,6 @@ Apart from programming, I have a particular interest in architecture, classical 
 
 ## Certifications
 [![GitHub Foundations Certification](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/badges/5d158af1-084a-47e9-a057-b07ee413fca6/public_url)
+[<img width="200" height="112" alt="image" src="https://github.com/user-attachments/assets/6f0e2aa9-4cb1-47b5-82e9-ac0912f735ac" />](https://link.byarthur.me/jap)
+[<img width="125" height="125" alt="image" src="https://github.com/user-attachments/assets/17fa14c7-5b49-4553-bec1-a3b209276ba6" />](https://link.byarthur.me/eng)
+
